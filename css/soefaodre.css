@@ -1,0 +1,38 @@
+/*
+.masthead > .inner > .masthead-brand,
+.masthead > .inner > .nav-masthead,
+.mastfoot > .inner > p,
+.inner > .lead > a
+*/
+
+/*
+.navbar .navbar-toggler,
+navbar .navbar-brand,
+.navbar .navbar-collapse
+ */
+body {
+    color: rgb(41, 43, 44) !important;
+}
+.navbar {
+    display:none !important;
+}
+img.profile-thumbnail {
+    /*
+    max-width: 85px !important;
+    max-height: 95px !important;
+    */
+}
+.row > div {
+    /*border: solid 1px red !important;*/
+}
+table, tr, td, th, thead, tbody {
+    /*border-width: 0 !important;*/
+    border-color: transparent !important;
+}
+td, th, .table td, .table th, .table-sm td, .table-sm th, .table-bordered td, .table-bordered th {
+    padding: 15px !important;
+    border-color: #777 !important;
+}
+.table-minimi td, .table-minimi th {
+    padding: 1px 2px !important;
+}
